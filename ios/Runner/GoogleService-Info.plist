@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>685038647046-jar5cvqj06jies0qifknrfpu0j03n4cr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.685038647046-jar5cvqj06jies0qifknrfpu0j03n4cr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>685038647046-hb4evgm3cqfnb4ke94ipj69i643i6hpb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIQlCVyQ3rmv04lCHmnmNqYuMxbwxuLcQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>685038647046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alexdomdev.beautyplace</string>
+	<key>PROJECT_ID</key>
+	<string>beautyplace-d78a8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beautyplace-d78a8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:685038647046:ios:c7c5c134a7b11945ca1087</string>
+</dict>
+</plist>

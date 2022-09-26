@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "685038647046",
+    "project_id": "beautyplace-d78a8",
+    "storage_bucket": "beautyplace-d78a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685038647046:android:0ce1be3d02973667ca1087",
+        "android_client_info": {
+          "package_name": "Beauty.Place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685038647046-ncf7vsqvc77606arvvl46ih4hrqf1np6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Beauty.Place",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "685038647046-ublvukfq55ubtb7kjh5bhpqafj20ne00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByt1TBog7BVZQ-k3JAuySohgugpzQNXTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685038647046-ublvukfq55ubtb7kjh5bhpqafj20ne00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685038647046-1rk5lbh9t1oa0ji64v5frsk7i0rfkct4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Beauty.Place"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685038647046:android:cf6786faf3f405e3ca1087",
+        "android_client_info": {
+          "package_name": "com.alexdomdev.beautyplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685038647046-hb4evgm3cqfnb4ke94ipj69i643i6hpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexdomdev.beautyplace",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "685038647046-ublvukfq55ubtb7kjh5bhpqafj20ne00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByt1TBog7BVZQ-k3JAuySohgugpzQNXTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685038647046-ublvukfq55ubtb7kjh5bhpqafj20ne00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685038647046-1rk5lbh9t1oa0ji64v5frsk7i0rfkct4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Beauty.Place"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
